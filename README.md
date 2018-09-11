@@ -42,3 +42,7 @@ Weekly Forecast can be aligned:
 * Center
 
 However, in order for either left or right to take effect, you must select between 1 - 3 forecast days. If you configured 4 - 5 forecast days, the application will default to justified alignment.
+
+## Support Email
+
+dashcoop.roku (at) gmail (dot) com
