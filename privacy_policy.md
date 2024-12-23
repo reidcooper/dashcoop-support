@@ -20,9 +20,8 @@ Link to privacy policy of third party service providers used by the app
 *   [WeatherAPI](https://www.weatherapi.com/privacy.aspx)
 *   [Google Maps API](https://policies.google.com/privacy)
 *   [Sentry](https://sentry.io/privacy/)
-*   [New Relic](https://newrelic.com/termsandconditions/privacy)
 *   [Heroku](https://www.salesforce.com/company/privacy/)
-*   [Redis Labs](https://redislabs.com/privacy)
+*   [Upstash](https://upstash.com/trust/privacy.pdf)
 
 **Log Data**
 
